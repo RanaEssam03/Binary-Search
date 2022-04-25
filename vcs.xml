@@ -10,9 +10,17 @@
           <option name="url" value="https://github.com/RanaEssam03/photo_shop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RanaEssam03/Text-editor-.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RanaEssam03/Login-Application.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Level1 second term\Programming 1\A3" />
+    <option name="cloneParentDir" value="D:\Level1 second term\Programming 1\A4" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
