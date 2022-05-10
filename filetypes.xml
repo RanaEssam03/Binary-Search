@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="data" type="AUTO_DETECTED" />
       <mapping pattern="demo" type="AUTO_DETECTED" />
       <mapping pattern="gg" type="AUTO_DETECTED" />
     </extensionMap>
